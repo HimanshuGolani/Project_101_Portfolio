@@ -21,7 +21,7 @@ h2,
 p,
 span {
   font-size: 72px;
-    background: linear-gradient(270deg, #ececec, #ff8d13);
+  background: linear-gradient(270deg, #ec4242, #dc780d);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
